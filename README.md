@@ -47,8 +47,7 @@ This project uses machine learning to predict the quality of red wine based on v
 1. Clone the repository or download the notebook  
 2. Install required libraries:
    ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
-   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn```bash
 3. Run the notebook in Jupyter or Google Colab step-by-step
 
 ---
